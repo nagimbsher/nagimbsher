@@ -23,12 +23,12 @@
 
 
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-- 💬 Contact me [linkedin](https://www.linkedin.com/in/nagim-basher-98610299/)
+
 
 
 - 
 <img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-- 💬 Contact me [twitter](https://twitter.com/nagimbasher)
+
 
 
 
