@@ -18,6 +18,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Knex.js](https://img.shields.io/badge/Knex.js-111111?style=for-the-badge&logo=javascript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-5B5E5F?style=for-the-badge&logo=openai&logoColor=white)
 
 
